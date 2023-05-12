@@ -1,0 +1,2 @@
+# AGMediaVideoCordovaPlugins
+AGMediaVideoCordovaPlugins
