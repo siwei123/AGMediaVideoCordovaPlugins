@@ -1,2 +1,2 @@
-# AGMediaVideoCordovaPlugins-0.0.4
+# AGMediaVideoCordovaPlugins-0.0.5
 AGMediaVideoCordovaPlugins
